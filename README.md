@@ -8,7 +8,7 @@ The objective of this scan is to identify open TCP ports on the target system an
 
 📍 2. Target Information
 
-Target IP Address: 192.000.000.000
+Target IP Address: 192.168.203.166 (192.168.203.166)
 Scan Range: Ports 1 to 1024
 Scan Type: TCP Connect Scan
 Tool Used: Python-based Network Port Scanner GUI
